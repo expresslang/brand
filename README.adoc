@@ -1,0 +1,29 @@
+= EXPRESS Language Foundation branding assets
+
+== Purpose
+
+This repository is used to make available branding assets of the
+EXPRESS Language Foundation (ELF).
+
+== Story
+
+The branding is intended to convey the following attributes:
+
+* Futuristic
+* Solid
+* Serious
+* Modern
+
+Board members believe the ELF logo should also reflect attributes of
+the EXPRESS language, including:
+
+* Expressivity, as in the ability to model different things
+* Flexiblility, for modellers, like a fish swimming in an ocean
+
+The branding is developed by the designer
+http://www.floroliva.com.ar[Flor Oliva] 
+
+== License
+
+Copyright EXPRESS Language Foundation.
+
